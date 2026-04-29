@@ -66,8 +66,3 @@ chmod +x lab3.sh
 - Linux (Ubuntu 20.04+ or Astra Linux)
 - GCC
 - POSIX threads (`-lpthread`)
-
----
-
-> 📚 Labs completed as part of the **Operating Systems** course at SPbETU "LETI"  
-> ⚠️ For educational purposes only
